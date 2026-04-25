@@ -1,7 +1,5 @@
 # ddev-meilisearch
 
-[![add-on registry](https://img.shields.io/badge/DDEV-Add--on_Registry-blue)](https://addons.ddev.com)
-[![tests](https://github.com/studioraz/ddev-meilisearch/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/studioraz/ddev-meilisearch/actions/workflows/tests.yml?query=branch%3Amain)
 
 ## Overview
 
