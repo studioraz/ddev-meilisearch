@@ -1,0 +1,6 @@
+name: ddev-meilisearch
+
+project_files:
+  - docker-compose.meilisearch.yaml
+
+ddev_version_constraint: '>= v1.24.3'
