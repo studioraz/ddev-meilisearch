@@ -1,7 +1,7 @@
 # ddev-meilisearch
 
 [![add-on registry](https://img.shields.io/badge/DDEV-Add--on_Registry-blue)](https://addons.ddev.com)
-[![tests](https://github.com/itaymesh/ddev-meilisearch/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/itaymesh/ddev-meilisearch/actions/workflows/tests.yml?query=branch%3Amain)
+[![tests](https://github.com/studioraz/ddev-meilisearch/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/studioraz/ddev-meilisearch/actions/workflows/tests.yml?query=branch%3Amain)
 
 ## Overview
 
@@ -12,7 +12,7 @@ This add-on integrates Meilisearch into your [DDEV](https://ddev.com) project, p
 ## Installation
 
 ```bash
-ddev add-on get itaymesh/ddev-meilisearch
+ddev add-on get studioraz/ddev-meilisearch
 ddev restart
 ```
 
@@ -71,7 +71,7 @@ To pin a specific Meilisearch version:
 
 ```bash
 ddev dotenv set .ddev/.env.meilisearch --meilisearch-tag="v1.8"
-ddev add-on get itaymesh/ddev-meilisearch
+ddev add-on get studioraz/ddev-meilisearch
 ddev restart
 ```
 
@@ -95,4 +95,4 @@ ddev start
 
 ## Credits
 
-**Contributed and maintained by [@itaymesh](https://github.com/itaymesh)**
+**Contributed and maintained by [@studioraz](https://github.com/studioraz)**
